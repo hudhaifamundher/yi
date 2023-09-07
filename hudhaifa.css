@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    
+}
+
+ol{
+    display: inline-block;
+}
+
+.intro{
+    color: black;
+}
+
+#helo {
+    color: red; 
+}
+
+.open {
+    color: #000;
+}
+li{
+    color:black;
+}
+[value="3"]{
+    color: green;
+}
+.m1 {
+    color: blue;
+}
